@@ -4,7 +4,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 
-BASE_URL = "https://raw.githubusercontent.com/CerveraDev/mor-wpb-workbook-tp/main/slide-thumbnails/"
+BASE_URL = "https://raw.githubusercontent.com/CerveraDev/mor-wpb-workbook-tp/claude/sales-talking-points-90REn/slide-thumbnails/"
 
 wb = Workbook()
 ws = wb.active
